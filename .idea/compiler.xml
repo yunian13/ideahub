@@ -9,5 +9,8 @@
         <module name="GitIdea" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GitIdea" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
